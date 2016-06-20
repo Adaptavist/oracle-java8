@@ -8,12 +8,9 @@ Supported Debian versions
 
 So far packages were tested on following Debian versions:
 
+- stretch i386/amd64
 - jessie i386/amd64
 - wheezy i386/amd64
-
-Packages have lower priority that default Debian OpenJDK or my Java 7
-packages, use update-java-alternatives if you want to make Java 8
-default.
 
 I do not have resources to test packages on Ubuntu. However, if one
 finds any problem on Ubuntu, feel free to report an issue and I will
@@ -42,9 +39,3 @@ probably illegal (at least in some parts of the world).
 On the other hand, this repository contains only scripts, that allows
 one to repackage Oracle Java in Debian friendly way. No binaries are
 or will be hosted.
-
-Thanks
-------
-
-If this saved you some time you can thank me with some bitcoins:
-1java8a15RHQPzyrSPMFTNnRvDohZa7Ui
